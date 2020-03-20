@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="take_picture">Ambil Gambar</string>
+    <string name="save_picture">Simpan Gambar</string>
+</resources>
